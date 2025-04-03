@@ -1,0 +1,5 @@
+
+User-agent: *
+Disallow:
+
+Sitemap: https://<اسم المستخدم>.github.io/mudar-website1/sitemap.xml
